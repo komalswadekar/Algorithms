@@ -1,5 +1,8 @@
 /*
  * Binary search using iterative approach
+ * Worst case time complexity : O(log n)
+ * Best case time complexity: O(1)
+ * Space Complexity: O(1)
  * Author: Komal Soham Wadekar
  */
 package search;
