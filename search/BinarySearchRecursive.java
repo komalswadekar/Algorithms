@@ -3,7 +3,7 @@
  * Works only on sorted arrays
  * Worst case time complexity : O(log n)
  * Best case time complexity: O(1)
- * Worst case space complexity: O(1)
+ * Worst case space complexity: O(1og n)
  */
 package search;
 
